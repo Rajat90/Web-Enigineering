@@ -1,4 +1,4 @@
-;Unix-style newlines
+; Unix-style newlines
 [*]
 charset = utf-8
 end_of_line = LF
